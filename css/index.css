@@ -22,13 +22,26 @@
   height: 50px;
   font-size: 20px;
 }
+.nav a {
+  font-family: "icomoon";
+  color: #5a5a5a;
+  margin-left: 200px;
+  width: 200px;
+  height: 50px;
+  font-size: 20px;
+}
 .nav li {
+  font-family: "icomoon";
   position: relative;
   width: 100px;
   height: 50px;
   float: right;
+  font-size: 25px;
+  color: yellow;
   color: bisque;
+  cursor: pointer;
 }
+
 .nav li .before {
   content: "";
   display: none;
