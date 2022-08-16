@@ -78,10 +78,14 @@ const wrap1 = new parallaxTiltEffect({
 
 const wrap2 = new parallaxTiltEffect({
   element: sss(".wrap--2"),
-  tiltEffect: "normal",
+  tiltEffect: "reverse",
 });
 
 const wrap3 = new parallaxTiltEffect({
   element: sss(".wrap--3"),
+  tiltEffect: "reverse",
+});
+const wrap4 = new parallaxTiltEffect({
+  element: sss(".wrap--4"),
   tiltEffect: "reverse",
 });

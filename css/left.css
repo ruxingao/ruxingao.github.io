@@ -1,0 +1,24 @@
+* {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+  text-decoration: none;
+}
+.gooey-h .gooey-menu-item .summary {
+  content: "";
+  display: none;
+  overflow: visible;
+  position: absolute;
+  padding: 3px;
+  top: 70px;
+  left: 20px;
+  width: 150px;
+  height: 150px;
+  color: black;
+  font-size: 20px;
+  line-height: 30px;
+  text-align: left;
+  border-radius: 20px;
+  color: white;
+  background-color: rgb(104, 208, 153);
+}

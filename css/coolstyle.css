@@ -140,7 +140,15 @@ h1 + p {
   -webkit-filter: hue-rotate(0deg) saturate(100%);
   filter: hue-rotate(0deg) saturate(100%);
 }
-
+.container--4 {
+  background: linear-gradient(hsla(0, 0%, 100%, 0.1), hsla(0, 0%, 100%, 0.1)),
+    url("../image/小狗4.jpg");
+  background-position: var(--bX) var(--bY);
+  background-size: 40rem auto;
+  box-shadow: 0 0 3rem 0.5rem hsla(0, 0%, 0%, 0.2);
+  -webkit-filter: hue-rotate(0deg) saturate(100%);
+  filter: hue-rotate(0deg) saturate(100%);
+}
 .container p {
   color: hsla(0, 0%, 100%, 0.6);
   font-size: 2.2rem;
