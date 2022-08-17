@@ -14,13 +14,13 @@ $(function () {
     window.location.href = "left.html";
   });
   $(".wrap--2").on("click", function () {
-    window.location.href = "https://www.baidu.com/";
+    window.location.href = "left2.html";
   });
   $(".wrap--3").on("click", function () {
-    window.location.href = "https://www.baidu.com/";
+    window.location.href = "https://github.com/ruxingao/Njupt-Big2";
   });
   $(".wrap--4").on("click", function () {
-    window.location.href = "https://www.baidu.com/";
+    window.location.href = "left1.html";
   });
   //
   //

@@ -1,0 +1,9 @@
+.home {
+  font-family: "icomoon";
+  position: absolute;
+  font-size: 40px;
+  left: 20px;
+  top: 20px;
+  color: white;
+  cursor: pointer;
+}
